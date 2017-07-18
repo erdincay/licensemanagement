@@ -162,6 +162,7 @@ namespace LicenseManagement
                 if(checkIntegerValidity(txtCustomerID))
                 {
                     lm.deleteLicense(int.Parse(txtCustomerID.Text));
+                    clearFields();
                     loadData();
                 }
             }

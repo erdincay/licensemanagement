@@ -3,6 +3,7 @@
 *by Erdinc AY*
 
 ![application image](../master/LicenseManagement/LicenseManagement/application.png)
+![application image](../master/LicenseManagement/LicenseManagement/application.gif)
 
 written in and with: C# (WinForms), LinQ2DB, SQLite
 
