@@ -7,3 +7,5 @@ by Erdinc AY
 written in and with: C# (WinForms), LinQ2DB, SQLite
 
 licensed under LGPLv3
+
+![lgplv3](../master/LicenseManagement/LicenseManagement/lgplv3.png)
