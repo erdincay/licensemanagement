@@ -1,6 +1,6 @@
-MINI LICENSE MANAGEMENT TOOL v.1.0.0
+# **MINI LICENSE MANAGEMENT TOOL v.1.0.0**
 
-by Erdinc AY 
+*by Erdinc AY*
 
 ![application image](../master/LicenseManagement/LicenseManagement/application.png)
 
